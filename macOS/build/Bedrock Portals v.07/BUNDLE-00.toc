@@ -1,3 +1,0 @@
-([('Bedrock Portals v.07',
-   '/Users/m_lan/Desktop/Bedrock Portals/v0.7/macOS/dist/Bedrock Portals v.07',
-   'EXECUTABLE')],)
